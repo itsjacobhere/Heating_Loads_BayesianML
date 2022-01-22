@@ -1,11 +1,4 @@
-#
-# hmc_lab4 for CM50268 Bayesian Machine Learning
-# April 2020 
-# Python port (by Mike Tipping/Xi Chen) of Radford Neal "one_step" code - original comments below
-#
-# SIMPLE IMPLEMENTATION OF HAMILTONIAN MONTE CARLO.
-#
-# Radford M. Neal, 2010.
+
 #
 # This program appears in Figure 2 of "MCMC using Hamiltonian dynamics",
 # to appear in the Handbook of Markov Chain Monte Carlo.
